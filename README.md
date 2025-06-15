@@ -72,13 +72,13 @@ Hi 👋 My name is Ayush Bodele
   <!-- Row 3 -->
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/><br>Docker</td>
-    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/kubernetes.svg" width="40"/><br>Kubernetes</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="40"/><br>Kubernetes</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40"/><br>Visual Studio</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/><br>VS Code</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40"/><br>IntelliJ</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40"/><br>Redis</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="40"/><br>PyCharm</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Xcode_Icon.png" width="40"/><br>Xcode</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40"/><br>Xcode</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/><br>Git</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="40"/><br>Jest</td>
   </tr>
